@@ -12,7 +12,8 @@ In this project, I will be analyzing Bikesharing data using Python and Tableau i
 
 ## Results 
 
-Using the visualizations in the Tableau Story, here are the results of each visualiztion: 
+Using the visualizations in the Tableau Story, here are the results of each visualization: 
 
-![2](https://user-images.githubusercontent.com/45697471/120260776-880cf200-c264-11eb-8855-e1a6d4e850b7.png)
+![1](https://user-images.githubusercontent.com/45697471/120260916-d02c1480-c264-11eb-937d-d6fbb503007c.png)
+
 
