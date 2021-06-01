@@ -14,4 +14,5 @@ In this project, I will be analyzing Bikesharing data using Python and Tableau i
 
 Using the visualizations in the Tableau Story, here are the results of each visualiztion: 
 
-![1](https://user-images.githubusercontent.com/45697471/120260739-775c7c00-c264-11eb-98d3-5701a7a8df61.png)
+![2](https://user-images.githubusercontent.com/45697471/120260776-880cf200-c264-11eb-8855-e1a6d4e850b7.png)
+
