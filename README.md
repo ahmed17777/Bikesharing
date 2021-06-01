@@ -10,7 +10,7 @@ In this project, I will be analyzing NYC Bikesharing data using Python and Table
 - The number of bike trips for all riders and genders for each hour of each day of the week
 - The number of bike trips for each type of user and gender for each day of the week.
 
-[link to dashboard](https://public.tableau.com/app/profile/syed.ahmed6577/viz/bikesharing_16219819008350/BikesharingChallenge "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/syed.ahmed6577/viz/bikesharing_16219819008350/BikesharingChallenge "Link to dashboard")
 
 ## Results 
 
@@ -53,3 +53,5 @@ For future analysis:
 - Looking at monthly trends in bikeshare data
 - Perhaps including weather data to find what effect it may have on rides
 
+## Contact 
+Email: mishaal22s@gmail.com
